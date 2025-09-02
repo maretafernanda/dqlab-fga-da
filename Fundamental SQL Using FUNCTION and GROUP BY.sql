@@ -50,4 +50,3 @@ SELECT StudentID, FirstName, LastName, MOD(Semester1,2) AS Semester1, Semester2,
 
 --------------------------------------------------------------------------------------------
 # 2. Fungsi Skalar Text
-
